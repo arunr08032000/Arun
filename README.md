@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ARUN R
 - 👀 I’m interested in DevOps Engineer
-- 🌱 I’m currently learning DevOps Tools like Git & GitHub, Jenkins CI/CD, Docker, Kubernetes, Ansible, Terraform, Amazon Web Service (AWS), Python3, Shell and Bash Scripting
+- 🌱 I’m currently learning DevOps Tools like Git & GitHub, Jenkins CI/CD, Docker, Kubernetes, Ansible, Terraform, Amazon Web Service (AWS), Python3, Shell, and Bash Scripting
 - 💞️ I’m looking to collaborate on and become proficient in DevOps
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
