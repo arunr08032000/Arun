@@ -2,8 +2,8 @@
 - 👀 I’m interested in DevOps Engineer role
 - 🌱 I’m currently learning DevOps Tools like Git & GitHub, Jenkins CI/CD, Docker, Kubernetes, Ansible, Terraform, Amazon Web Service (AWS), Python3, Shell, and Bash Scripting
 - 💞️ I’m looking to collaborate on and become proficient in DevOps
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me arunrajamani190@gmail.com
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
 <!---
